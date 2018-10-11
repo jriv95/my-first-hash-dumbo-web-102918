@@ -47,6 +47,6 @@ def adding
   # return the shipping_manifest hash below
 
 the_manifest["muskets" => 2, "gun powder" => 4]
+end
 
 the_manifest
-end
